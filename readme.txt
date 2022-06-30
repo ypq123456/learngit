@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 =======
 Creating a new branch is quick and simple marge.
 >>>>>>> feature1
+I like python.
